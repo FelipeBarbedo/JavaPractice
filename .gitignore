@@ -1,0 +1,13 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Compiled files
+bin/
+
+# Dependencies
+/lib/
+
+# Ignore module-info.java in the src directory
+src/module-info.java
