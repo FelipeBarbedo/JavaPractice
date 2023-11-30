@@ -9,8 +9,8 @@ public class Distance {
 		Scanner sr = new Scanner(System.in);
 
 		int minutes = sr.nextInt();
-		
-		System.out.printf("%d minutos%n", minutes * 2);	
+
+		System.out.printf("%d minutos%n", minutes * 2);
 
 		sr.close();
 

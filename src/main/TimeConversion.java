@@ -16,6 +16,7 @@ public class TimeConversion {
 		} else if (time % 60 != 0) {
 			seconds = time % 60;
 		}
+
 		time /= 60;
 
 		if (time > 59) {
