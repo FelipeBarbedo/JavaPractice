@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class SelectionTest1 {
 
 	public static void main(String[] args) {
+		
 		Scanner sr = new Scanner(System.in);
 
 		int[] values = new int[4];
